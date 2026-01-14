@@ -5,13 +5,14 @@ import { SiTailwindcss, SiMysql, SiPandas, SiNumpy, SiScikitlearn, SiJupyter } f
 import project1 from '../assets/images/proyek ta.jpg';
 import project2 from '../assets/images/proyek biomedis.jpg';
 import project3 from '../assets/images/proyek absensi.png';
+import project4 from '../assets/images/portfolio-project.png';
 
 export const personalInfo = {
   name: "Muhammad Zulfikar",
   role: "Web Developer",
   email: "fikarrr7890@gmail.com",
   social: {
-    github: "https://github.com/dashboard",
+    github: "https://github.com/zulfikarr999",
     linkedin: "http://www.linkedin.com/in/muhammad-zulfikar-2018b22a5",
     twitter: "https://twitter.com"
   }
@@ -69,5 +70,13 @@ export const projects = [
     image: project3,
     tech: ["Laravel", "Laragon", "PHP"],
     link: "https://github.com/zulfikarr999/Sistem-Absensi-Sekolah"
+  },
+  {
+    id: 4,
+    title: "Portofolio",
+    description: "Website portofolio personal yang responsif, dibangun dengan React dan Vite. Dilengkapi dengan animasi halus (Framer Motion) dan formulir kontak yang berfungsi penuh.",
+    tech: ["React", "Vite", "Tailwind CSS", "Framer Motion"],
+    link: "https://github.com/zulfikarr999/Portofolio-Muhammad-Zulfikar",
+    image: project4
   }
 ];
