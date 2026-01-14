@@ -74,7 +74,7 @@ export const projects = [
   {
     id: 4,
     title: "Portfolio",
-    description: "Responsive personal portfolio website, built with React and Vite.",
+    description: ", built with React and Vite.",
     tech: ["React", "Vite", "Tailwind CSS", "Framer Motion"],
     link: "https://github.com/zulfikarr999/Portofolio-Muhammad-Zulfikar",
     image: project4
