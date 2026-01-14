@@ -73,8 +73,8 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Portofolio",
-    description: "Website portofolio personal yang responsif, dibangun dengan React dan Vite. Dilengkapi dengan animasi halus (Framer Motion) dan formulir kontak yang berfungsi penuh.",
+    title: "Portfolio",
+    description: "Responsive personal portfolio website, built with React and Vite.",
     tech: ["React", "Vite", "Tailwind CSS", "Framer Motion"],
     link: "https://github.com/zulfikarr999/Portofolio-Muhammad-Zulfikar",
     image: project4
